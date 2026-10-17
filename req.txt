@@ -1,0 +1,6 @@
+streamlit>=1.40.0
+langchain-core>=0.3.0
+langchain-openai>=0.2.0
+python-dotenv>=1.0.1
+# Add a provider SDK when you integrate it, for example:
+# replicate>=1.0.0
